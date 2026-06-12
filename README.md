@@ -67,6 +67,4 @@ This dashboard demonstrates how business intelligence tools can be used to trans
 
 Amanda Evangelista Lima
 
-LinkedIn:
-
-<img width="1380" height="683" alt="image" src="https://github.com/user-attachments/assets/f5fd2b9f-47f0-46e2-9bd7-d0b716bb0f4e" />
+LinkedIn: https://www.linkedin.com/in/amanda-evangelista-lima-3056b11aa/
